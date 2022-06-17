@@ -380,6 +380,7 @@ nav {
         top: 0;
         width: 50%;
         height: 100%;
+        padding: 3em;
     }
 
     .contact-right {
@@ -390,8 +391,7 @@ nav {
         height: 100%;
 
         iframe {
-            height: 120%;
-            padding: 2em;
+            height: 200%;
         }
     }
 }
